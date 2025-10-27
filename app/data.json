@@ -1,0 +1,139 @@
+{
+    "posts": [
+        {
+            "name": "Contact",
+            "urls": [
+                {
+                    "name": "GitLab",
+                    "url": "https://gitlab.com/rokr0k"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/Rokr0k"
+                },
+                {
+                    "name": "Steam",
+                    "url": "https://steamcommunity.com/id/rokr0k_/"
+                },
+                {
+                    "name": "itch.io",
+                    "url": "https://rokr0k.itch.io"
+                }
+            ],
+            "desc": [
+                "Email: rokr0k@rokr0k.xyz",
+                "Discord: rokr0k"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Raven Lune",
+            "urls": [
+                {
+                    "name": "GitLab",
+                    "url": "https://gitlab.com/rokr0k/raven-lune"
+                }
+            ],
+            "desc": [
+                "Basic BMS Player with SDL.",
+                "First intended to make a new Lunative Rave 2 (which is no longer maintained due to loss of source code), now it does basic functionality as a BMS player."
+            ]
+        },
+        {
+            "name": "WebBMS",
+            "urls": [
+                {
+                    "name": "GitLab",
+                    "url": "https://gitlab.com/rokr0k/webbms"
+                },
+                {
+                    "name": "D3vle0",
+                    "url": "https://devleo.us"
+                }
+            ],
+            "desc": [
+                "BMS Player Running on Browsers.",
+                "This was created to play a game in random places with only internet connection.",
+                "Song list design done by `D3vle0`."
+            ]
+        },
+        {
+            "name": "SortVis",
+            "urls": [
+                {
+                    "name": "GitLab",
+                    "url": "https://gitlab.com/rokr0k/sortvis"
+                }
+            ],
+            "desc": [
+                "Sorting Algorithm Visualizer with OpenGL",
+                "I have seen something like this a lot on YouTube, decided to make my implementation."
+            ]
+        },
+        {
+            "name": "Sand",
+            "urls": [
+                {
+                    "name": "GitLab",
+                    "url": "https://gitlab.com/rokr0k/sand"
+                }
+            ],
+            "desc": [
+                "Sand Falling Simulation"
+            ]
+        },
+        {
+            "name": "Mine",
+            "urls": [
+                {
+                    "name": "GitLab",
+                    "url": "https://gitlab.com/rokr0k/mine"
+                }
+            ],
+            "desc": [
+                "Minesweeper Clone with Auto Resolver",
+                "While not perfect, it can resolve on its own."
+            ]
+        },
+        {
+            "name": "F1 React",
+            "urls": [
+                {
+                    "name": "Page",
+                    "url": "https://rokr0k.gitlab.io/f1-react/"
+                }
+            ],
+            "desc": [
+                "Reaction Time Tester",
+                "Heavily inspired by Formula 1 starting sequence."
+            ]
+        },
+        {
+            "name": "BA",
+            "urls": [
+                {
+                    "name": "GitLab",
+                    "url": "https://gitlab.com/rokr0k/ba"
+                }
+            ],
+            "desc": [
+                "Archive Format/Library Intended for Game Resources",
+                "It can archive your resources and extract in the game."
+            ]
+        },
+        {
+            "name": "Bus",
+            "urls": [
+                {
+                    "name": "itch.io",
+                    "url": "https://rokr0k.itch.io/bus"
+                }
+            ],
+            "desc": [
+                "Bus Driving Foddian Game",
+                "I'm the first man to suffer from my own creation."
+            ]
+        }
+    ]
+}
