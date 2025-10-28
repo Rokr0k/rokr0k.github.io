@@ -1,0 +1,13 @@
+image: node:lts
+
+before_script:
+  - npm ci
+
+create-pages:
+  stage: build
+  script:
+    - npm run build
+  pages:
+    publish: out
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
