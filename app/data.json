@@ -4,10 +4,6 @@
             "name": "Contact",
             "urls": [
                 {
-                    "name": "GitLab",
-                    "url": "https://gitlab.com/rokr0k"
-                },
-                {
                     "name": "GitHub",
                     "url": "https://github.com/Rokr0k"
                 },
@@ -31,8 +27,8 @@
             "name": "Raven Lune",
             "urls": [
                 {
-                    "name": "GitLab",
-                    "url": "https://gitlab.com/rokr0k/raven-lune"
+                    "name": "GitHub",
+                    "url": "https://github.com/Rokr0k/raven-lune"
                 }
             ],
             "desc": [
@@ -44,8 +40,8 @@
             "name": "WebBMS",
             "urls": [
                 {
-                    "name": "GitLab",
-                    "url": "https://gitlab.com/rokr0k/webbms"
+                    "name": "GitHub",
+                    "url": "https://github.com/Rokr0k/webbms"
                 },
                 {
                     "name": "D3vle0",
@@ -62,8 +58,8 @@
             "name": "SortVis",
             "urls": [
                 {
-                    "name": "GitLab",
-                    "url": "https://gitlab.com/rokr0k/sortvis"
+                    "name": "GitHub",
+                    "url": "https://github.com/Rokr0k/sortvis"
                 }
             ],
             "desc": [
@@ -75,8 +71,8 @@
             "name": "Sand",
             "urls": [
                 {
-                    "name": "GitLab",
-                    "url": "https://gitlab.com/rokr0k/sand"
+                    "name": "GitHub",
+                    "url": "https://github.com/Rokr0k/sand"
                 }
             ],
             "desc": [
@@ -87,8 +83,8 @@
             "name": "Mine",
             "urls": [
                 {
-                    "name": "GitLab",
-                    "url": "https://gitlab.com/rokr0k/mine"
+                    "name": "GitHub",
+                    "url": "https://github.com/Rokr0k/mine"
                 }
             ],
             "desc": [
@@ -100,8 +96,12 @@
             "name": "F1 React",
             "urls": [
                 {
+                    "name": "GitHub",
+                    "url": "https://github.com/Rokr0k/f1react"
+                },
+                {
                     "name": "Page",
-                    "url": "https://rokr0k.gitlab.io/f1-react/"
+                    "url": "https://rokr0k.xyz/f1react/"
                 }
             ],
             "desc": [
@@ -113,8 +113,8 @@
             "name": "BA",
             "urls": [
                 {
-                    "name": "GitLab",
-                    "url": "https://gitlab.com/rokr0k/ba"
+                    "name": "GitHub",
+                    "url": "https://github.com/Rokr0k/ba"
                 }
             ],
             "desc": [
